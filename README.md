@@ -33,7 +33,8 @@ In order for the push notifications to work in Mendix you must have a few things
 - You must set up the [apple server](#setting-up-apple-push-notification-server) and [google server](#setting-up-google-cloud-messaging-server) using the documentation bellow
 - The phonegap push plugin must be included in the config.xml, more information can be found [here](#creating-phonegap-app)
 - The widget is connected up to the google settings object. 
-- Encryption module from the appstore must be added to the project.
+- Encryption module and Community commons module from the appstore must be added to the project.
+
 
 The application included in the test project can be used as reference.
 
